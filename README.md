@@ -1,4 +1,4 @@
-# Geese Object Detection and Localization using Mask RCNN.
+# Geese Detection and Localization using Mask RCNN.
 
 This repo is used to identify the geese in a video feed with the purpose of being used to scare geese off of my cousins lawn. **That's it, that's the tweet.**
 
