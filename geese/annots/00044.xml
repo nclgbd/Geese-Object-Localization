@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00044.jpg</filename>
+	<path>C:\Users\Nicole\Documents\dev\Geese_Object_Detection\geese\images\00044.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1156</width>
+		<height>1255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goose</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>2</ymin>
+			<xmax>1156</xmax>
+			<ymax>1206</ymax>
+		</bndbox>
+	</object>
+</annotation>
